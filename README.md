@@ -14,6 +14,8 @@
 
 Horiseon Webpage
 
+Link: https://jonnwijaya.github.io/horiseon-webpage-refactoring/
+
 ![Screenshot of the site](assets/images/screenshot.png)
 
 ## Credits

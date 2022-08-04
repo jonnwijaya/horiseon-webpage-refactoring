@@ -1,13 +1,16 @@
+/* universal  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +18,14 @@ header {
     color: #ffffff;
 }
 
+/* h1 styling */
 h1 {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
+/* nav styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,6 +43,7 @@ li {
     margin-left: 25px;
 }
 
+/* Make the Footer */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styling for the aside content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +122,7 @@ h3 {
     margin-bottom: 10px;
 }
 
+/* Images styling for the aside */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -136,6 +141,7 @@ h3 {
     max-width: 150px;
 }
 
+/* Styling for the main article */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +169,7 @@ h3 {
     color: #ffffff;
 }
 
+/* Images for the main article */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -175,6 +182,7 @@ h3 {
     max-height: 200px;
 }
 
+/* Word styles for the main article */
 h2 {
     font-size: 36px;
 }
@@ -191,6 +199,7 @@ h2 {
     margin-bottom: 20px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
